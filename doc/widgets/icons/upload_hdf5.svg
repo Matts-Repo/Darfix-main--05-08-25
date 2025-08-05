@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="32px" height="32px" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata13">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <g id="g4515" transform="translate(-.066424 -.85834)">
+   <g id="g36" transform="translate(.4375 .375)">
+    <g id="g56">
+     <g id="g886" stroke="#000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" style="paint-order:stroke fill markers">
+      <g id="g891" transform="matrix(1.241 0 0 1.2749 -1.3404 -8.4422)" fill="none" stroke="#000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2721">
+       <path id="path28" transform="translate(-.4375 -.375)" d="m6 21.067 0.047319 5.0337 15.953 0.0076 0.01385-5.0413" style="paint-order:stroke fill markers"/>
+       <path id="path30" d="m13.574 20.593-0.01105-8.9575" style="paint-order:stroke fill markers"/>
+       <path id="path32" d="m8.5312 15.888 4.9888-5.38 4.9357 5.38" style="paint-order:stroke fill markers"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="text464" transform="scale(1.1035 .9062)" fill="#483e37" stroke-width=".71843" aria-label="HDF5">
+    <path id="path565" d="m4.1914 29.022h0.85032v2.5762h3.0898v-2.5762h0.85032v6.2848h-0.85032v-2.993h-3.0898v2.993h-0.85032z"/>
+    <path id="path562" d="m11.524 29.72v4.8873h1.0271q1.3007 0 1.9027-0.58933 0.60617-0.58933 0.60617-1.8606 0-1.2629-0.60617-1.848-0.60196-0.58933-1.9027-0.58933zm-0.85032-0.69878h1.747q1.8269 0 2.6815 0.76192 0.85453 0.75772 0.85453 2.3742 0 1.6249-0.85874 2.3868-0.85874 0.76192-2.6773 0.76192h-1.747z"/>
+    <path id="path559" d="m17.313 29.022h3.6118v0.71562h-2.7614v1.8522h2.492v0.71562h-2.492v3.0014h-0.85032z"/>
+    <path id="path556" d="m22.356 29.022h3.3382v0.71562h-2.5594v1.5407q0.18522-0.06314 0.37044-0.09261 0.18522-0.03368 0.37044-0.03368 1.0524 0 1.667 0.5767 0.61459 0.5767 0.61459 1.5617 0 1.0145-0.63143 1.5786-0.63143 0.55987-1.7806 0.55987-0.3957 0-0.80823-0.06735-0.40832-0.06735-0.84612-0.20206v-0.85453q0.37886 0.20627 0.78297 0.3073 0.40411 0.10103 0.85453 0.10103 0.72825 0 1.1534-0.38307t0.42516-1.0398-0.42516-1.0398-1.1534-0.38307q-0.34097 0-0.68194 0.07577-0.33676 0.07577-0.69036 0.23573z"/>
+   </g>
+  </g>
+ </g>
+</svg>

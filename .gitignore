@@ -1,0 +1,34 @@
+# Hidden files
+.*
+!.gitignore
+!.gitlab-ci.yml
+!.readthedocs.yaml
+!.flake8
+!.flake8_nb
+
+# Byte / compiled / optimized
+*.py[cod]
+__pycache__/
+*.so
+
+# Distribution / packaging
+/build/
+/dist/
+*.egg-info/
+.eggs/
+/doc/_generated
+venv/
+
+# Notebook results
+/doc/tutorials/components
+treated/
+
+# doc generated files
+doc/development/_generated
+
+# pytest dir
+pytest_test_dir
+
+html
+src/orangecontrib/darfix/tutorials/hdf5_dataset/data.hdf5
+src/orangecontrib/darfix/tutorials/hdf5_dataset/maps.h5

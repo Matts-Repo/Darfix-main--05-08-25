@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="32px" height="32px" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata13">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <g id="g4515" transform="translate(-.066424 -.85834)">
+   <g id="g36" transform="translate(.4375 .375)">
+    <g id="g56">
+     <g id="g886" stroke="#000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3" style="paint-order:stroke fill markers">
+      <g id="g891" transform="matrix(1.241 0 0 1.2749 -1.3404 -8.4422)" fill="none" stroke="#000001" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2721">
+       <path id="path28" transform="translate(-.4375 -.375)" d="m6 21.067 0.047319 5.0337 15.953 0.0076 0.01385-5.0413" style="paint-order:stroke fill markers"/>
+       <path id="path30" d="m13.574 20.593-0.01105-8.9575" style="paint-order:stroke fill markers"/>
+       <path id="path32" d="m8.5312 15.888 4.9888-5.38 4.9357 5.38" style="paint-order:stroke fill markers"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="text126" transform="scale(1.1033 .90637)" fill="#483e37" stroke-width=".70678" aria-label="EDF">
+    <path id="path344" d="m6.8216 28.902h3.9094v0.70402h-3.0728v1.8304h2.9445v0.70402h-2.9445v2.2404h3.1474v0.70402h-3.9839z"/>
+    <path id="path341" d="m13.017 29.589v4.808h1.0105q1.2797 0 1.8719-0.57978 0.59635-0.57978 0.59635-1.8304 0-1.2424-0.59635-1.818-0.5922-0.57978-1.8719-0.57978zm-0.83654-0.68745h1.7186q1.7973 0 2.638 0.74957 0.84068 0.74543 0.84068 2.3357 0 1.5985-0.84482 2.3481t-2.6339 0.74957h-1.7186z"/>
+    <path id="path338" d="m18.711 28.902h3.5532v0.70402h-2.7167v1.8222h2.4516v0.70402h-2.4516v2.9527h-0.83654z"/>
+   </g>
+  </g>
+ </g>
+</svg>
