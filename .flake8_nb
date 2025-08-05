@@ -1,4 +1,0 @@
-# E402 (module import not at top of file) ignored
-[flake8_nb]
-ignore = E501, E203, W503, E402
-max-line-length = 88
